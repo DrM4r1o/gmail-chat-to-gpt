@@ -38,5 +38,11 @@ Once the script is set up and running:
 
 - This script assumes each message has a unique ID. If a message does not have an ID, modify the script to detect new messages by a different method.
 - Be cautious with continuous use, as repeated automatic openings of new tabs can quickly clutter your browser.
+
+> [!WARNING]
+> To use this script properly, **you must allow pop-ups** in your browser.  
+> The script opens a new tab with each new message to send it to ChatGPT, so make sure that your browser is set to **allow pop-ups** for the site you're using.
+
+
   
 
